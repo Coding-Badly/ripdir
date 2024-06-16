@@ -1,0 +1,20 @@
+[package]
+name = "ripdir"
+version = "0.1.0"
+authors = ["Brian Cook (a.k.a Coding-Badly)"]
+license = "Apache-2.0 OR MIT"
+readme = "../README.md"
+repository = "https://github.com/Coding-Badly/ripdir"
+# nfx documentation = "https://docs.rs/ripdir"
+# homepage = "https://ripdir.github.io/book"
+description = """
+Crazy fast directory listings.
+"""
+keywords = ["directory", "windows", "api", "ffi", "file"]
+# "api", "ffi", "file", "utility", "windows", "linux", "unix"
+categories = ["API Bindings", "Filesystem", "Operating systems"]
+edition = "2021"
+# rust-version = "1.56"
+# include = ["src/", "LICENSE-*", "README.md", "CHANGELOG.md", "COPYRIGHT"]
+
+[dependencies]
