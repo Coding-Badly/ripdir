@@ -12,7 +12,7 @@ Crazy fast directory listings.
 """
 keywords = ["directory", "windows", "api", "ffi", "file"]
 # "api", "ffi", "file", "utility", "windows", "linux", "unix"
-categories = ["API Bindings", "Filesystem", "Operating systems"]
+categories = ["api-bindings", "filesystem", "os::windows-apis"]
 edition = "2021"
 # rust-version = "1.56"
 # include = ["src/", "LICENSE-*", "README.md", "CHANGELOG.md", "COPYRIGHT"]
